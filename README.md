@@ -25,3 +25,5 @@
 ## Progress Tracker & Roadmap
 - Completing Semester 1 foundational engineering coursework.
 - Building hands-on systems software and participating in collegiate hackathons.
+
+yes the lab manual literally prescribed that exact cringe corporate templates line-for-line :/
