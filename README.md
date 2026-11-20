@@ -8,7 +8,7 @@
 
 | Repository | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| [Campus-Ghosts](https://github.com/surfingtheinanimatesenses/Campus-Ghosts) | Interactive campus application built during a 24-hour hackathon | C++, Git | Active |
+| [Campus-Ghosts](https://github.com/surfingtheinanimatesenses/Campus-Ghosts) | Privacy-preserving coding duel arena & anti-cheat telemetry platform | Python, FastAPI, SQLite, Groq, Tailwind | Active |
 | [cse103-lab-LAB3](https://github.com/surfingtheinanimatesenses/cse103-lab-LAB3) | CSE103 lab — Git workflows, APIs, and Linux shell scripting | Git, Python, Bash | Active |
 | [developer-portfolio](https://github.com/surfingtheinanimatesenses/developer-portfolio) | Central directory and developer portfolio index | Markdown | Active |
 

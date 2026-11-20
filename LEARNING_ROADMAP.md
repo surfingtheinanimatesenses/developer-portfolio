@@ -26,7 +26,7 @@
 - **Core Skills:** C++ / Python syntax, Linux command line, Git branching and GitHub workflows.
 - **Projects:**
   - *CSE103 Lab Portfolio* (Git automation, Markdown, CLI).
-  - *Campus Ghosts v1* (24-hour hackathon project in C++).
+  - *CampusGhosts* (Hackathon entry: Python, FastAPI, SQLite, Groq AI, Tailwind CSS, Chart.js).
 - **Certifications & Tests:** HackerRank Python (Basic) and Problem Solving basics.
 - **Active Platforms:** HackerRank (zdarkxks), LeetCode (surfingtheinanimatesenses), freeCodeCamp.
 - **Monthly Targets (Current Semester):**
